@@ -130,3 +130,6 @@ class Editor(DirectObject):
 
         # сообщаем о необходимости повторного запуска задачи
         return task.again
+
+if 0:
+    pass
